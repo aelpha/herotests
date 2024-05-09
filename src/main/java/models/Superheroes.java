@@ -1,10 +1,9 @@
 package models;
 
-import lombok.Getter;
-
 import java.util.List;
+import lombok.Getter;
 
 @Getter
 public class Superheroes {
-    List<Superhero> superheroList;
+  List<Superhero> superheroList;
 }
