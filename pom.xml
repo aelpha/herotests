@@ -19,18 +19,7 @@
     <test.suites>suites/*</test.suites>
   </properties>
 
-  <repositories>
-    <repository>
-      <id>archiva.bamboo.internal</id>
-      <url>https://a.shalamov:pooyahPa4AiL@nexus.web.s7.ru/repository/maven-internal/</url>
-    </repository>
-  </repositories>
-  <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <url>https://a.shalamov:Test123@nexus.techlab.s7.ru/repository/automation/</url>
-    </repository>
-  </distributionManagement>
+  
 
   <dependencies>
     <dependency>
